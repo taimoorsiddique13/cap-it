@@ -1,10 +1,14 @@
 {
   "name": "@taimoorsiddiq/cap-it",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "cap-it is a lightweight and user-friendly utility for string capitalization. It allows developers to effortlessly capitalize first letter of any string, ensuring clean and professional formatting in their applications.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "test": "node test.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/taimoorsiddique13/cap-it"
   },
   "author": "Taimoor",
   "license": "MIT",

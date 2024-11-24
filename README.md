@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 ## **Links**
 
 - **NPM Page:** [@taimoorsiddiq/cap-it](https://www.npmjs.com/package/@taimoorsiddiq/cap-it)
-- **GitHub Repository:** [GitHub](https://github.com/taimooorsiddiq13/cap-it)
+- **GitHub Repository:** [GitHub](https://github.com/taimoorsiddique13/cap-it)
 
 ---
 
